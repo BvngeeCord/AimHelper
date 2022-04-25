@@ -1,3 +1,5 @@
+(submission for high school hackathon)
+
 ## Inspiration
 I was inspired to make Aim Helper by Minecraft, the world's most sold and an extremely popular video game that I play as a hobby. It is written in Java, a powerful language language albeit not the most popular for game design, and it uses the low level lightweight java game design library called  [LWJGL](https://www.lwjgl.org/). LWJGL bundles [OpenGL](https://www.khronos.org/opengl/), the industry standard high performance graphics library used for a vast majority of games and high performance applications. Being so low level comes with the challenge of needing a _lot_ more code for the most basic rendering, but having access to extremely low level drawing operations to be queued to the GPU, as well as being extremely performant. Knowing that I am likely to pursue professional game design in the future, I decided I wanted to try to learn the process of making a basic game application using the low level graphics from OpenGL in LWJGL.
 ## What it does
